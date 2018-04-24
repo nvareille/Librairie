@@ -10,7 +10,7 @@ namespace Calcul
     {
         public static int GetInt(string str)
         {
-            return (Int32.Parse(str) + 1);
+            return (Int32.Parse(str));
         }
     }
 }
